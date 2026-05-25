@@ -59,7 +59,7 @@
             ' Avanza el eje dominante en cada iteracion
             dim_(Dom) += inc(Dom)
 
-            ' Aplica la nueva posicion y calcula cinematica
+            ' Aplica la nueva posicion
             EjeX = dim_(1)
             EjeY = dim_(2)
             EjeZ = dim_(3)
