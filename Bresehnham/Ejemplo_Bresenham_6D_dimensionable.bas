@@ -8,8 +8,6 @@
     Dim As Integer Dom            ' indice del eje dominante
     Dim As Integer i, Conta
 
-    StandBy = 1
-
     ' Carga posiciones actuales y deltas
     dim_(1) = Xold : d(1) = EjeX - Xold
     dim_(2) = Yold : d(2) = EjeY - Yold
