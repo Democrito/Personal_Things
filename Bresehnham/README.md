@@ -1,5 +1,5 @@
 # Algoritmo de Bresenham de 6 dimensiones y ampliable.
 
-He subido un archivo donde hay un algoritmo de Bresenham de 6 dimensiones y está altamente optimizado. Este algoritmo sólo sirve de ejemplo para cuando se necesite 3 o más dimensiones (imagina 30 dimensiones, pues eso). Es un trozo de código que pertenece a una prueba que he hecho en un simulador de brazo robot. Probablemente sólo lo entenderé yo. Me servirá de ejemplo en futuros proyectos y hay que darle unos toques para generalizarlo.
+Dejo un ejemplo de algoritmo de Bresenham para n-dimensiones (cualquier número de dimensiones). En el ejemplo que he subido está por defecto para 6 pero se puede generalizar para cualquier otro número de dimensiones. Si abres el programa te indico a modo de comentario dónde tocar para cambiar el número de dimensión y los formateos para la entrada y salida de datos.
 
-Tocando los arrays (la dimensión) se puede añadir o quitar dimensiones.
+También dejo el .exe por si quieres probarlo ahora mismo. Las entradas y salidas de datos es en modo texto (no gráfico).
