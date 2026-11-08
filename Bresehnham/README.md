@@ -7,4 +7,4 @@ Al ejecutar el programa te pedirá un número entero (no importa si es positivo 
 
 ![](https://github.com/Democrito/Personal_Things/blob/main/Bresehnham/n-dimension%20bresenham%20input%20output.png)
 
-También te dejo el .exe por si quieres probarlo ahora mismo. El programa está escrito y compilado en el lenguaje de programación FreeBasic.
+También te dejo el .exe por si quieres probarlo ahora mismo. El programa está escrito y compilado en el lenguaje de programación [**FreeBasic**](https://sites.google.com/site/proyectosroboticos/instalacion-fbide).
